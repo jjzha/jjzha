@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mike Zhang
 
-- 🌱 I'm a first-year PhD student the IT University of Copenhagen, advised by [Barbara Plank](https://bplank.github.io).
+- 🌱 I'm a second-year PhD student the IT University of Copenhagen, advised by [Barbara Plank](https://bplank.github.io).
 - 🔭 I’m currently working on Information Extraction from job postings, Active Learning, and more recently Domain Adaptation.
 - 📫 You can reach me via the social links on my [page](https://jjzha.github.io).
 - 🤔 Shameless Plug: I'm looking for a Research Internship in Summer 2022.
