@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mike Zhang
 
-- 🌱 I'm a third-year PhD student the IT University of Copenhagen, advised by [Barbara Plank](https://bplank.github.io).
-- 🔭 I’m currently working on Information Extraction from job postings, Active Learning, and more recently Domain Adaptation.
+- 🌱 I'm a Postdoc at Aalborg University.
+- 🔭 I’m currently working on the intersection between NLP and Education.
 - 📫 You can reach me via the social links on my [page](https://jjzha.github.io).
 
 <!--
